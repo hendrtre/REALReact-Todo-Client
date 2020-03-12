@@ -9,9 +9,9 @@
     display: grid;
     justify-items: center;
     background-color: #454544;
-    border-radius: 10px;
+    border-radius: 15px;
     width: 400px;
-    box-shadow: 5px 5px 5px #999;
+    box-shadow: 10px 10px 10px #999;
   }
   .add-todo {
     display: flex;
